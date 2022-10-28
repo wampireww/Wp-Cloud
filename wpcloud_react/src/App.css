@@ -1,0 +1,161 @@
+.App {
+  background-color: white;
+
+}
+
+.login {
+  background: #00416A;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #E4E5E6, #00416A);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #E4E5E6, #00416A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.loginform{
+
+  background: #8e9eab;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+  padding: 70px;
+  border-radius: 40px;
+ 
+}
+
+.signupform{
+  margin-top: -10px;
+  background: #8e9eab;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+  padding: 80px;
+  border-radius: 40px;
+ justify-content: center;
+ align-items: center;
+ width: 600px;
+ 
+}
+
+.home {
+
+  background: #00416A;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #E4E5E6, #00416A);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #E4E5E6, #00416A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+
+  box-shadow: 0 5px 10px 0 rgba(0,0,0,.2);
+  width: 100vw;
+  height: 100vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.navbar {
+
+  background-color: #CFD8DC;
+  display: flex;
+  flex-direction: row;
+  position: sticky;
+
+}
+
+.navbar nav{
+  display: flex;
+align-items: center;
+width:100vw;
+justify-content: center;
+height: 30px
+}
+
+.navbar ul{
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  width: 100vw;;
+  justify-content:flex-end;
+ padding: 5px;
+ padding-right: 50px;
+}
+
+.navbar li{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: flex;
+  padding: 5px;
+  align-items: center;
+align-items: center;
+justify-content: center;
+margin-top: 12px;
+}
+
+.navbar .item1 {
+
+  margin-right:10px;
+
+}
+
+.navbar .item2 {
+
+  margin-right: 10px;
+
+}
+.navbar .item3 {
+
+  margin-right: 10px;
+  
+}
+
+
+.homebody {
+ display: flex;
+ flex-wrap:wrap;
+  align-items: center;
+  margin-top: 2px;
+  padding: 1px;
+  width: auto;
+}
+
+.homebody .card{
+  width:260px;
+  height: auto;
+  margin-top: 5px;
+  border-radius: 20px;
+  background-color: #CFD8DC;  
+ margin: 10px
+}
+
+.navbar nav .upload {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 6px;
+  border-radius: 20px;
+  background-color: #00416A;
+}
+
+.upload .inputsection{
+  font-size:small;
+  color:#ECEFF1;
+  margin-left: 5px;
+
+}
+
+.navbar .progess{
+  display: flex;
+  flex-direction: row;
+  width: 100px;
+  height: 50px;
+}
+
+.nopage{
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #00416A;
+  width: 100vw;
+  height: 100vh;  
+}

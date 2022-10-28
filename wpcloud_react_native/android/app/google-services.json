@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "617305920728",
+    "project_id": "wpcloud-aed4a",
+    "storage_bucket": "wpcloud-aed4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617305920728:android:b98b85eb035b3e9536b3ad",
+        "android_client_info": {
+          "package_name": "com.wpcloud_react_native"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617305920728-hep82gdjltujggv4jcheql0ln4d7lv3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wpcloud_react_native",
+            "certificate_hash": "b29296fbfcbde05008a1eb3cf740c1988ffeb732"
+          }
+        },
+        {
+          "client_id": "617305920728-2tfh9en61vsolhmceina34eqsq857j5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDstOU_n3hwo2V_ujY1B027O7AlchKBNig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617305920728-2tfh9en61vsolhmceina34eqsq857j5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
