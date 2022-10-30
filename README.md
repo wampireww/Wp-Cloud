@@ -1,2 +1,2 @@
 # Wp-Cloud
-firebase tabanlı React ve React-native ile bulut depolama web ve android mobil uygulaması.
+Firebase tabanlı React ve React-native ile bulut depolama web ve android mobil uygulaması
